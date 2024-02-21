@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Css Intro</title>
+    <link rel="stylesheet" href="app.css" />
+  </head>
+  <body>
+    <!-- <h1 style="color: brown">hello</h1>
+    <button style="background-color: blue">i am button</button> -->
+    <h1>introoo</h1>
+    <hr />
+
+    <p>
+      The class attribute <a href="asknfsk">specifies</a> one or more classnames
+      for an element. The class attribute is mostly used to point to a class in
+      a style sheet. However, it can also be used by a JavaScript (via the HTML
+      DOM) to make changes to HTML elements with a specified class
+    </p>
+    <h2>Messi</h2>
+    <hr />
+    <p>
+      During the 2003–04 season Messi rapidly progressed through the club's
+      ranks, debuting for four youth teams in a single campaign.[34] After being
+      named player of the tournament in four international pre-season
+      competitions with the Juveniles B, he was soon promoted to the Juveniles
+      A, where he scored 18 goals in 11 league games.[35][36] Messi was then one
+      of several youth players called up to strengthen Frank Rijkaard's depleted
+      first team during the international break. French winger Ludovic Giuly
+      notes that Messi stood out in first team training sessions: "He destroyed
+      us all... Even the team's starting centre-backs were nervous. He was an
+      alien.
+    </p>
+    <h3>Lional messi</h3>
+    <hr />
+    <p>
+      Messi made his first team debut as a 75th-minute substitute during a
+      friendly against Porto on 16 November 2003.[25][38] His performance,
+      creating two chances and a shot on goal, impressed the technical staff,
+      and he subsequently began training daily with the club's reserve side,
+      Barcelona B, as well as weekly with the first team.[39] Barcelona's new
+      star player, Ronaldinho, believed the 16-year-old would become an even
+      better player than himself;[40] he soon befriended Messi, whom he called
+      "little brother", and eased his transition into the first team
+    </p>
+  </body>
+</html>
